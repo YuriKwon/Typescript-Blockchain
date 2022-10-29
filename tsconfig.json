@@ -1,0 +1,10 @@
+{
+  // include: js로 컴파일하고 싶은 ts 파일들(디렉터리)
+  "include": ["src"],
+  "compilerOptions": {
+    // outDir: js 파일이 생성될 디렉터리
+    "outDir": "build",
+    "target": "ES6" // 대부분의 nodeJS와 브라우저가 ES6을 지원하므로, ES6 권장
+    // 내 nodeJS버전에 맞게 호환되는 버전으로 target을 바꿔줘야한다. )
+  }
+}

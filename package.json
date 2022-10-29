@@ -1,0 +1,22 @@
+{
+  "name": "typescript-blockchain",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YuriKwon/Typescript-Blockchain.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YuriKwon/Typescript-Blockchain/issues"
+  },
+  "homepage": "https://github.com/YuriKwon/Typescript-Blockchain#readme",
+  "dependencies": {
+    "typescript": "^4.8.4"
+  }
+}
